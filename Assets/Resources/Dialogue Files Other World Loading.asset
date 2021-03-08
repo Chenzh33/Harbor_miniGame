@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 391796d530631704da647f3f23764ac5, type: 3}
+  m_Name: Dialogue Files Other World Loading
+  m_EditorClassIdentifier: 
+  sentences:
+  - "\u5C0F\u718A\u597D\u50CF\u6709\u8BDD\u548C\u6211\u8BF4\u3002"
+  - "\u767D\u5929\u7684\u65F6\u5019\u6211\u4F1A\u548C\u72D7\u72D7\u4E00\u8D77\u73A9\uFF0C\u665A\u4E0A\uFF0C\u5C31\u53EA\u80FD\u548C\u5C0F\u718A\u8BF4\u8BF4\u8BDD\u4E86\u3002"
+  - "\u4EE5\u524D\u603B\u662F\u89C9\u5F97\u5F88\u5947\u602A\uFF0C\u7238\u7238\u5988\u5988\u600E\u4E48\u4E0D\u5E26\u6211\u51FA\u53BB\u627E\u522B\u7684\u5C0F\u670B\u53CB\u73A9\u5440\u3002"
+  - "\u522B\u7684\u5C0F\u670B\u53CB\u4E5F\u6709\u4E00\u53EA\u72D7\u72D7\u80FD\u5E26\u4ED6\u4EEC\u53BB\u60F3\u53BB\u7684\u5730\u65B9\u5417\uFF1F"
+  - "\u867D\u7136\u5916\u9762\u7684\u4E16\u754C\u5F88\u6697\uFF0C\u4F46\u662F\u6211\u7684\u5FC3\u91CC\uFF0C\u5F88\u4EAE\u5802\u3002"
+  heads:
+  - "<color=orange>\u6211:</color>"
+  - "<color=orange>\u6211:</color>"
+  - "<color=orange>\u6211:</color>"
+  - "<color=orange>\u6211:</color>"
+  - "<color=orange>\u6211:</color>"
+  buttonTexts:
+  - "\u7EE7\u7EED"
+  - "\u7EE7\u7EED"
+  - "\u7EE7\u7EED"
+  - "\u7EE7\u7EED"
+  - "\u8FDB\u5165\u8111\u6D77"
